@@ -1,4 +1,4 @@
-### Programmable IIR Filters for Software-Defined Radio on FPGA
+### PROGRAMMABLE IIR FILTERS FOR SOFTWARE DEFINED RADIO ON FPGA
 
 This repository contains the design and implementation of programmable Infinite Impulse Response (IIR) digital filters targeted for Software-Defined Radio (SDR) systems on FPGA hardware. The primary objective of this student project is to enable flexible and efficient real-time filtering of wideband signals, while minimizing FPGA resource usage and maintaining stability under reconfigurable conditions.
 
