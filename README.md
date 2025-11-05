@@ -46,7 +46,7 @@ The cascaded SOS topology was selected to ensure numeric stability and controlle
 
 ## Design Methodology
 
-# 1. Algorithm & Specification
+## 1. Algorithm & Specification
 
 Chosen IIR type: Elliptic (due to sharp transition band and compact design)
 
@@ -54,7 +54,7 @@ Designed using standard digital filter design methods
 
 MATLAB used to derive coefficients for multiple configurations
 
-# 2. Fixed-Point Representation
+## 2. Fixed-Point Representation
 
 Coefficients and intermediate signals mapped to Q-format
 
@@ -62,7 +62,7 @@ Scaling analysis performed to avoid overflow and maintain accuracy
 
 Bit-growth managed through controlled truncation and saturation logic
 
-# 3. Hardware Architecture (Verilog)
+## 3. Hardware Architecture (Verilog)
 
 Core modules include:
 
@@ -78,13 +78,13 @@ Top-level data routing and control module
 
 The system accepts programmable coefficients and processes sample streams through cascaded second-order stages.
 
-# 4. Simulation Workflow
+## 4. Simulation Workflow
 
 MATLAB generates input signal and filter coefficient files
 
 Verilog testbench reads files and exercises the hardware filter
 
-# 5. Future Extensions
+## 5. Future Extensions
 
 UART-based runtime control interface
 
