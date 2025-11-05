@@ -97,3 +97,6 @@ Exploration of multiplier-less methods (e.g., distributed arithmetic)
 Output samples written to file and compared against MATLAB output
 
 This ensures numerical and functional correctness of the hardware design.
+
+## Video
+https://drive.google.com/file/d/1Np6ZsHliECZ9ALd-ULe1T8sSxiVNYPsb/view?usp=sharing
