@@ -221,17 +221,4 @@ Overall, the design demonstrated a good balance between computational efficiency
 
 ---
 
-## References
 
-1. *Journal of Electrical Systems and Information Technology* — "High performance IIR filter implementation on FPGA."
-2. *International Journal of Advanced Computer Science and Applications* — "Design and Implementation of a Digital IIR Filter for Real-Time Applications on FPGA."
-3. *IEEE Transactions on Circuits and Systems* — "Efficient FPGA Implementation of IIR Digital Filters."
-4. *IEEE Transactions on Signal Processing* — "FPGA Implementation of IIR Filters Using Distributed Arithmetic."
-5. *IEEE Journal on Emerging and Selected Topics in Circuits and Systems* — "Design and FPGA Implementation of Digital Filters for Software-Defined Radios."
-
----
-
-## Authors
-
-- **Muhammad Omais** — School of Electrical Engineering and Computer Science, NUST — `owaseem.bee21seecs@seecs.edu.pk`
-- **Ahmed Raziullah** — School of Electrical Engineering and Computer Science, NUST — `aullah.bee21seecs@seecs.edu.pk`
